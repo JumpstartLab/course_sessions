@@ -37,7 +37,7 @@ class EventManager
 
 end
 
-em = EventManager.new("event_attendees.csv")
+#em = EventManager.new("event_attendees.csv")
 #em.print_zipcodes
-em.print_phone_numbers
+#em.print_phone_numbers
 #em.print_names
