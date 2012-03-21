@@ -1,4 +1,4 @@
-$LOAD_PATH << './'
+$LOAD_PATH << './lib'
 require 'csv'
 require 'attendee'
 
